@@ -1,4 +1,4 @@
-# Blind-date-Detroit-project
+# Blind-Date-Detroit-project
 
 
 Blind Match Detroit is a curated matchmaking project focused on connecting singles across Metro Detroit based on preferences, lifestyle, compatibility, and profile information.
